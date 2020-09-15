@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "director": "",
+    "dotenv": "^8.2.0",
     "notevil": "^1.0.0",
     "weather": "^0.1.0"
   },

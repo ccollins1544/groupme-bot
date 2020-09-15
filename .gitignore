@@ -1,4 +1,5 @@
 src/config.js
+.env
 
 # JetBrains Directory-based project format
 .idea/
